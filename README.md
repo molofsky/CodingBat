@@ -1,2 +1,3 @@
 # CodingBat
-My solutions to CodingBat https://codingbat.com/
+My solutions to CodingBat 
+https://codingbat.com/
